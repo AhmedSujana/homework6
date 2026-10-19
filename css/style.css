@@ -15,6 +15,7 @@ a{
 
 .container {
     width: 1320px;
+    max-width: 90%;
     margin: 0 auto;
 }
 
@@ -26,7 +27,7 @@ a{
 .menu ul{
     display: flex;
     justify-content: center;
-    column-gap: 250px;
+    column-gap: 40px;
     color: #fff;
 }
 .menu ul li a{
