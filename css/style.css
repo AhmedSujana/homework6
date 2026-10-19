@@ -26,11 +26,11 @@ a{
 .menu ul{
     display: flex;
     justify-content: center;
-    column-gap: 40px;
+    column-gap: 20px;
     color: #fff;
 }
 .menu ul li a{
     color: #fff;
-    font-size: 15px;
+    font-size: 20px;
     text-transform: uppercase;
 }
