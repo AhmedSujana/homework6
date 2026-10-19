@@ -1,0 +1,36 @@
+
+
+. {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+
+.container {
+    width: 1320px;
+    margin: 0 auto;
+}
+
+
+.header{
+    background-color: rgba(12, 155, 155, 0.905);
+    padding:  20px;
+}
+.menu ul{
+    display: flex;
+    justify-content: center;
+    column-gap: 250px;
+    color: #fff;
+}
+.menu ul li a{
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+}
